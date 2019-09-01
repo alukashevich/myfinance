@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="col-sm-8 col-sm-offset-2">
+    <div class="row">
+      <div class="col-sm-6">
+        <div class="login-form">
+          <div class="form-group">
+            <i class="fa fa-user-o"></i>
+            <input placeholder="User name" class="form-control" type="text" [(ngModel)]="login.userName">
+          </div>
+          <div class="form-group">
+            <i class="fa fa-key"></i>
+            <input placeholder="Password" class="form-control" type="password" [(ngModel)]="login.password">
+          </div>
+          <div class="row">
+            <div class="col-sm-2">
+              <div class="form-group">
+                <input class="btn btn-success" type="button" value="Login" (click)="login()">
+              </div>
+            </div>
+            <div class="col-sm-2">
+              <div class="form-group">
+                <a class="btn btn-warning" routerLink="/register">register</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

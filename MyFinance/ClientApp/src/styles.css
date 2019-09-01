@@ -1,0 +1,12 @@
+.delete {
+  width: 15px;
+  height: 15px;
+  background: url(https://image.flaticon.com/icons/svg/32/32178.svg) 100% 100% no-repeat;
+  background-size: cover;
+  border: none;
+  margin-top: 5px;
+}
+
+.row.labels .form-group{
+  margin-bottom: 0px;
+}

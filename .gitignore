@@ -1,0 +1,14 @@
+﻿################################################################################
+# Данный GITIGNORE-файл был автоматически создан Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MyFinance
+/MyFinance.Data/bin/Debug/netstandard2.0
+/MyFinance.Data/obj
+/MyFinance.Repo/bin/Debug/netstandard2.0
+/MyFinance.XUnitTestProject/bin/Debug/netcoreapp2.2
+/MyFinance.XUnitTestProject/obj/Debug/netcoreapp2.2
+/MyFinance.XUnitTestProject/obj
+/MyFinance.Services/bin/Debug/netstandard2.0
+/MyFinance.Services/obj
+/MyFinance.Repo/obj
