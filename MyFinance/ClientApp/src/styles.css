@@ -1,3 +1,6 @@
+@import url("../src/css/sb-admin-2.min.css");
+@import url("../src/css/vendor/fontawesome-free/css/all.min.css");
+
 .delete {
   width: 15px;
   height: 15px;
